@@ -14,3 +14,5 @@ documentation for details.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   Cette ligne a été ajoutée par Agathe POSPIECH.
